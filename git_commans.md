@@ -6,6 +6,8 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git pull`: Este comando se usa para tomar la ultima actualizacion de nuestro repositorio remoto en nuestra pc
 
+`git fetch`: comando principal que se usa para descargar contenidos desde un repositorio remoto
+
 `git checkout`: Este comando se usa para movernos entre ramas creadas por git branch
 
 `git log`: Este comando se usa para observar y explorar el historial del repositorio
